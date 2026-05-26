@@ -1,0 +1,6 @@
+stage_order,stage,count
+1,Total population,3280
+2,Hypertension diagnosis,620
+3,Eligible denominator,465
+4,Measured (after exclusions),408
+5,Numerator (controlled),266

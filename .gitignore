@@ -1,0 +1,21 @@
+# Raw Synthea output — too large for GitHub (regenerate via documented command)
+synthea/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Tableau temp/backup files
+*.twb
+*.twbr
+
+# Tableau extracts (data lives in the .twbx)
+*.hyper
+
+# OS / editor noise
+.DS_Store
+.vscode/
+
+# Empty scaffolding
+data/synthea_raw/
