@@ -5,7 +5,7 @@ synthetic data generation, a cloud SQL measure engine, independent Python valida
 and an interactive Tableau dashboard. Built to NCQA HEDIS **Measurement Year 2025**
 specifications using synthetic patient data (no real PHI).
 
-**🔗 Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/gabriel.ogb/viz/HEDISCBPMeasureDashboardMY2025SyntheticData/Dashboard1)
+**🔗 Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/gabriel.ogb/viz/HEDIS-CBP-Dashboard/Dashboard1)
 
 ---
 
